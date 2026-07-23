@@ -11,7 +11,7 @@ export default function AboutMe() {
                 <div className={styles['image-container']}>
                     <img src={avatar} alt="" />
                     <div className={styles["location-container"]}>
-                        <h3>Clayton, Victoria, Australia</h3>
+                        <h3>West Melbourne, Victoria, Australia</h3>
                     </div>
                     <div className={styles['contact-container']}>
                         <a href="https://www.linkedin.com/in/phongndinh/" target='_blank'>
