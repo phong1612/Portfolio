@@ -13,4 +13,11 @@ export default [
         Description: "A React-based web application that help users decide what to cook using available ingredients by collecting user input and get recipe suggestions using third-party AI API to get dishes and cooking instructions in real time",
         on: false
     },
+    {
+        id: 3,
+        url: "https://github.com/phong1612/JARVIS",
+        name: "JARVIS",
+        Description: "A local-first AI assistant that can perform various tasks such as macOS app control, web URL launching, managing files, and providing information using voice commands",
+        on: false
+    }
 ]
