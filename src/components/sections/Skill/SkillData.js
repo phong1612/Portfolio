@@ -1,5 +1,10 @@
 export default [
     {
+        id: 0,
+        name: "AI/ML Development",
+        efficiency: 90
+    },
+    {
         id: 1,
         name: "Java",
         efficiency: 85
