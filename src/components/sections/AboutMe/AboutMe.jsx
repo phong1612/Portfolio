@@ -40,7 +40,7 @@ export default function AboutMe() {
                     <h1>Hi, my name is Phong Nhat Dinh but you can call me Jason.</h1>
                 </div>
                 <div className={styles['info-container']}>
-                    <h3>I'm an UI/UX designer and Front End Developer pursuing a Master in AI at Monash University.
+                    <h3>I'm an UI/UX designer and Front End Developer/AI Engineer pursuing a Master in AI at Monash University.
                     <br />
                     <br />
                     I'm passionate about building things that look clean and work smoothly. React and JavaScript are my main tools, but I also enjoy Python projects—especially anything involving AI/ML or data.</h3>
