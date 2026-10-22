@@ -19,5 +19,12 @@ export default [
         name: "JARVIS",
         Description: "A local-first AI assistant that can perform various tasks such as macOS app control, web URL launching, managing files, and providing information using voice commands",
         on: false
+    },
+    {
+        id: 4,
+        url: "https://greenchanger.me/",
+        name: "GreenChanger",
+        Description: "A website that allow users to simulate planting trees of different species and size as well as look at council canopy map.",
+        on: false
     }
 ]
